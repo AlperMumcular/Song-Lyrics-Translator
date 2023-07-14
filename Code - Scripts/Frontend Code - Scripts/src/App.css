@@ -1,0 +1,46 @@
+
+.header{
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  font-weight: 600;
+
+}
+
+.button_translate_by_search{
+  margin-bottom: 40px;
+
+  
+}
+
+
+.search-by-song{
+  width: 20%;
+}
+
+.search{
+  margin: auto;
+  width: 50%;
+}
+
+.translated_lyrics{
+  margin: 30px;
+width: 40%;
+
+}
+
+.lyrics_div{
+  display: flex;
+  flex-direction: row;
+}
+
+
+
+
+
+
+.album-cover {
+  width: 200px;
+  border-radius: 5px;
+  margin: 30px;
+  }
