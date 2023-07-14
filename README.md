@@ -3,6 +3,7 @@ It is a cloud-based web application that helps users to translate their favorite
 
 <p> 
   <strong>Used Technologies:</strong>
+  <br> </br>
   <br> Backend  --> NodeJS </br>
   <br> Frontend --> ReactJS </br>
   <br> Database --> Cloud SQL (MySQL) </br>
