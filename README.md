@@ -2,8 +2,7 @@
 It is a cloud-based web application that helps users to translate their favorite songs into desired language.
 
 <p> 
-  <strong>Used Technologies:</strong>
-  <br> </br>
+  <br><strong>Used Technologies:</strong></br>
   <br> Backend  --> NodeJS </br>
   <br> Frontend --> ReactJS </br>
   <br> Database --> Cloud SQL (MySQL) </br>
